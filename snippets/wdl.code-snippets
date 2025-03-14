@@ -151,7 +151,7 @@
   },
   "Create a new `call` statement": {
     "prefix": "call",
-    "body": ["call ${1:a_task} {input: ${2:a} output: ${3:a}}"],
+    "body": ["call ${1:a_task} {some_input: ${2:a}}"],
     "description": "Create a new `call` statement",
   },
   "Create a new `if` statement": {
